@@ -1,2 +1,2 @@
 # Quazar
-Repository for projects done under Quazar Technologies. Coding and designing web pages to give symmetry operations in real-time for various Space Groups in soft condensed matter physics.
+Repository for projects done under Quazar Technologies. Web pages to give symmetry operations in real-time for visualization of Space Groups in soft condensed matter physics.
